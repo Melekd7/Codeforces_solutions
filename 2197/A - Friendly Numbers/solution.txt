@@ -1,0 +1,16 @@
+def d(x):
+    s = 0
+    a = str(x)
+    for i in range(len(a)):
+        s += int(a[i])
+    return s
+ 
+t = int(input())
+for _ in range(t):
+    x = int(input())
+    count = 0
+    for s in range(1, 200):
+        y = x + s
+        if d(y) == s:
+            count += 1
+    print(count)
