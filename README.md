@@ -6,27 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 16 |
+| 49 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (3)
-- [Uncategorized](#uncategorized) (4)
+- [*special](#special) (4)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (11)
+- [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (6)
-- [math](#math) (16)
-- [number theory](#number-theory) (5)
+- [games](#games) (2)
+- [geometry](#geometry) (1)
+- [greedy](#greedy) (10)
+- [implementation](#implementation) (12)
+- [math](#math) (22)
+- [number theory](#number-theory) (6)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [sortings](#sortings) (2)
+- [strings](#strings) (8)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -35,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 2199A | [Game](https://codeforces.com/contest/2199/problem/A) | 1000 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/A%20-%20Game/solution.txt) |
 | 2199B | [Two Towers](https://codeforces.com/contest/2199/problem/B) | 1400 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/B%20-%20Two%20Towers/solution.txt) |
 | 2199E | [Supersequence](https://codeforces.com/contest/2199/problem/E) | 2100 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/E%20-%20Supersequence/solution.txt) |
@@ -44,8 +47,10 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 105020A | [Mood](https://codeforces.com/contest/105020/problem/A) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/A%20-%20Mood/solution.py) |
+| 105020B | [Hungry](https://codeforces.com/contest/105020/problem/B) | Unrated | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/B%20-%20Hungry/solution.txt) |
 | 105020G | [String Rotation](https://codeforces.com/contest/105020/problem/G) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/G%20-%20String%20Rotation/solution.py) |
 | 105020H | [Cookies](https://codeforces.com/contest/105020/problem/H) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/H%20-%20Cookies/solution.py) |
+| 105020J | [Hide and Seek](https://codeforces.com/contest/105020/problem/J) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/J%20-%20Hide%20and%20Seek/solution.py) |
 | 105020M | [Delivery](https://codeforces.com/contest/105020/problem/M) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/M%20-%20Delivery/solution.py) |
 
 ### binary search
@@ -70,6 +75,13 @@
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.py) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.py) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+
+### chinese remainder theorem
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.txt) |
 
 ### constructive algorithms
 
@@ -96,6 +108,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1369A | [FashionabLee](https://codeforces.com/contest/1369/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1369/A%20-%20FashionabLee/solution.cpp) |
 
 ### greedy
 
@@ -103,22 +122,31 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/B%20-%20Ashmal/solution.py) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.py) |
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.py) |
 | 2199B | [Two Towers](https://codeforces.com/contest/2199/problem/B) | 1400 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/B%20-%20Two%20Towers/solution.txt) |
 | 2199E | [Supersequence](https://codeforces.com/contest/2199/problem/E) | 2100 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/E%20-%20Supersequence/solution.txt) |
+| 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.txt) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1914A | [Problemsolving Log](https://codeforces.com/contest/1914/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1914/A%20-%20Problemsolving%20Log/solution.txt) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.py) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
+| 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.txt) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 
 ### math
 
@@ -128,8 +156,11 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1369A | [FashionabLee](https://codeforces.com/contest/1369/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1369/A%20-%20FashionabLee/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
+| 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
@@ -140,6 +171,9 @@
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
 | 2199B | [Two Towers](https://codeforces.com/contest/2199/problem/B) | 1400 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/B%20-%20Two%20Towers/solution.txt) |
 | 2202A | [Parkour Design](https://codeforces.com/contest/2202/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2202/A%20-%20Parkour%20Design/solution.cpp) |
+| 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.txt) |
+| 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.txt) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 
 ### number theory
 
@@ -150,6 +184,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.py) |
+| 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.txt) |
 
 ### schedules
 
@@ -161,6 +196,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.py) |
 
 ### strings
@@ -169,6 +205,9 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1914A | [Problemsolving Log](https://codeforces.com/contest/1914/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1914/A%20-%20Problemsolving%20Log/solution.txt) |
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/B%20-%20Ashmal/solution.py) |
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.py) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.py) |
