@@ -1,0 +1,72 @@
+#include<bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace std;
+using namespace __gnu_pbds;
+ 
+typedef long long int ll;
+typedef long double ld;
+ 
+#define fast ios::sync_with_stdio(0), cin.tie(0),cout.tie(0)
+#define pb push_back
+#define mp(x,y) make_pair(x,y)
+#define pi  3.141592653589793238462643383279502884L
+#define endl "
+"
+#define all(x) x.begin(),x.end()
+#define allr(x) x.rbegin(),x.rend()
+#define yes cout<<"YES"<<endl;
+#define no cout<<"NO"<<endl;
+#define f first
+#define s second
+const ll N =  1e5+5;
+const ll INF = 1e13;
+const ll MIN = -1e9;
+const ll MAX = 1000001;
+const ll P1 = 9973;
+const ll P2 = 998244353;
+const ll mod= 998244353;
+ll lcm(ll a, ll b) { return (a * b) / __gcd(a, b); }
+#define ordered_set tree<pair<ll,ll>,null_type,less<pair<ll,ll>>,rb_tree_tag,tree_order_statistics_node_update>
+#define int long long
+ 
+ 
+void solve() {
+    int n;
+    cin >>n;
+    string s;
+     string f;
+      string d;
+       string e;
+    s="I hate that";
+    f="I love that";
+    d="I hate it";
+    e="I love it";
+   
+    string p="";
+    for (int i=0;i<n-1;i++){
+        if (i%2==0){
+            p+=s+" ";}
+        else{
+            p+=f+" ";
+        }}
+            
+    if (n%2==1){
+            p+=d;}
+        else{
+            p+=e ;   
+    
+        }   
+    cout <<p;
+}
+ 
+ 
+ 
+ 
+signed main(){
+    fast;
+    ll t=1;
+    while(t--){
+        solve();
+    }
+}
