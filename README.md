@@ -6,46 +6,72 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 11 |
+| 22 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
-- [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [*special](#special) (3)
+- [Uncategorized](#uncategorized) (4)
+- [binary search](#binary-search) (3)
+- [brute force](#brute-force) (6)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (3)
+- [expression parsing](#expression-parsing) (1)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (2)
-- [math](#math) (4)
+- [math](#math) (10)
 - [number theory](#number-theory) (2)
+- [schedules](#schedules) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
 
 ---
 
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2199A | [Game](https://codeforces.com/contest/2199/problem/A) | 1000 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/A%20-%20Game/solution.txt) |
+| 2199B | [Two Towers](https://codeforces.com/contest/2199/problem/B) | 1400 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/B%20-%20Two%20Towers/solution.txt) |
+| 2199E | [Supersequence](https://codeforces.com/contest/2199/problem/E) | 2100 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/E%20-%20Supersequence/solution.txt) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 105020A | [Mood](https://codeforces.com/contest/105020/problem/A) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/A%20-%20Mood/solution.py) |
+| 105020G | [String Rotation](https://codeforces.com/contest/105020/problem/G) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/G%20-%20String%20Rotation/solution.py) |
+| 105020H | [Cookies](https://codeforces.com/contest/105020/problem/H) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/H%20-%20Cookies/solution.py) |
+| 105020M | [Delivery](https://codeforces.com/contest/105020/problem/M) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/M%20-%20Delivery/solution.py) |
+
 ### binary search
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.py) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+| 2199E | [Supersequence](https://codeforces.com/contest/2199/problem/E) | 2100 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/E%20-%20Supersequence/solution.txt) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.py) |
 | 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.py) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.py) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.py) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.py) |
 
 ### data structures
@@ -54,6 +80,12 @@
 |---|---------|------------|----------|
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -61,6 +93,8 @@
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/B%20-%20Ashmal/solution.py) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.py) |
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.py) |
+| 2199B | [Two Towers](https://codeforces.com/contest/2199/problem/B) | 1400 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/B%20-%20Two%20Towers/solution.txt) |
+| 2199E | [Supersequence](https://codeforces.com/contest/2199/problem/E) | 2100 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/E%20-%20Supersequence/solution.txt) |
 
 ### implementation
 
@@ -73,10 +107,16 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.py) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.py) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.py) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
+| 2199B | [Two Towers](https://codeforces.com/contest/2199/problem/B) | 1400 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/B%20-%20Two%20Towers/solution.txt) |
+| 2202A | [Parkour Design](https://codeforces.com/contest/2202/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2202/A%20-%20Parkour%20Design/solution.cpp) |
 
 ### number theory
 
@@ -84,6 +124,12 @@
 |---|---------|------------|----------|
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.py) |
+
+### schedules
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
 
 ### sortings
 
