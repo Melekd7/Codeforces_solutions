@@ -1,0 +1,9 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    s=list(map(str,input()))
+    f=set(s)
+    v=len(f)*2
+    v=v+len(s)-len(f)
+    print(v)
+            
