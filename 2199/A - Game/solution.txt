@@ -1,0 +1,20 @@
+fun main() {
+    val t = readLine()!!.toInt()
+    repeat(t) {
+        val k = readLine()!!.toInt()
+        val a = readLine()!!.split(" ").map { it.toInt() }
+        val b = readLine()!!.split(" ").map { it.toInt() }
+        
+        if (a[0] + b[0] > a[1] + b[1] + k) {
+            println("NO")
+        } else if (a[0] + b[0] == a[1] + b[1] + k) {
+            if (a[0] > a[1] && b[0] > b[1]) {
+                println("NO")
+            } else {
+                println("YES")
+            }
+        } else {
+            println("YES")
+        }
+    }
+}
