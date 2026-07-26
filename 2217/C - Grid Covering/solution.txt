@@ -1,0 +1,13 @@
+import math
+ 
+t=int(input())
+for _ in range(t):
+    k,m,e,b=map(int,input().split())
+    if math.gcd(k,e)==1 and math.gcd(m,b)==1:
+        g=math.gcd(k,m)
+        if g==1 or g==2:
+            print("YES")
+        else:
+            print("NO")
+    else:
+        print("NO")
