@@ -1,0 +1,12 @@
+t=int(input())
+def phi(x):
+    a=[]
+    s=str(t)
+    for i in range(len(str(t))):
+        a.append(s[i])
+    return len(set(a))==len(a)
+t+=1
+while(not(phi(t))):
+    t+=1
+print(t)
+ 
