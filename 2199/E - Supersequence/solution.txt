@@ -1,0 +1,47 @@
+import java.io.BufferedReader
+import java.io.InputStreamReader
+import java.util.StringTokenizer
+ 
+fun main() {
+    val br = BufferedReader(InputStreamReader(System.`in`))
+    val sb = StringBuilder()
+    var st = StringTokenizer(br.readLine())
+    val n = st.nextToken().toInt()
+    val q = st.nextToken().toInt()
+    st = StringTokenizer(br.readLine())
+    val a = LongArray(n) { st.nextToken().toLong() }
+    val prefix = LongArray(n)
+    prefix[0] = 1L
+    for (i in 1 until n) {
+        val diff = Math.abs(a[i] - a[i - 1])
+        prefix[i] = prefix[i - 1] + if (diff == 0L) 2L else diff
+    }
+    val totalLen = prefix[n - 1]
+    st = StringTokenizer(br.readLine())
+    repeat(q) {
+        val x = st.nextToken().toLong()
+        if (x > totalLen) {
+            sb.append(-1)
+        } else {
+            var lo = 0
+            var hi = n - 1
+            while (lo < hi) {
+                val mid = (lo + hi + 1) / 2
+                if (prefix[mid] <= x) lo = mid else hi = mid - 1
+            }
+            if (prefix[lo] == x) {
+                sb.append(a[lo])
+            } else if (lo + 1 < n) {
+                if (a[lo] != a[lo + 1]) {
+                    val step = x - prefix[lo]
+                    if (a[lo + 1] > a[lo]) sb.append(a[lo] + step)
+                    else sb.append(a[lo] - step)
+                } else {
+                    sb.append(0)
+                }
+            }
+        }
+        if (it < q - 1) sb.append(' ')
+    }
+    println(sb)
+}
