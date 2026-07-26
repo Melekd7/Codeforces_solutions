@@ -1,23 +1,191 @@
-<h2><a href="https://codeforces.com/contest/1690/problem/A" target="_blank" rel="noopener noreferrer">1690A — Print a Pedestal (Codeforces logo?)</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 800 |
-| **Language** | C++20 (GCC 13-64) |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 1690A](https://codeforces.com/contest/1690/problem/A) |
-
-## Topics
-`constructive algorithms` `greedy`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">A. Print a Pedestal (Codeforces logo?)</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Given the integer $$$n$$$ — the number of available blocks. You must use <span class="tex-font-style-bf">all</span> blocks to build a <span class="tex-font-style-it">pedestal</span>. </p><p>The <span class="tex-font-style-it">pedestal</span> consists of $$$3$$$ platforms for $$$2$$$-nd, $$$1$$$-st and $$$3$$$-rd places respectively. The platform for the $$$1$$$-st place must be <span class="tex-font-style-bf">strictly</span> higher than for the $$$2$$$-nd place, and the platform for the $$$2$$$-nd place must be <span class="tex-font-style-bf">strictly</span> higher than for the $$$3$$$-rd place. Also, the height of each platform must be greater than zero (that is, each platform must contain at least one block).</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/ae41519d2cc9b464c85eafcb1d5961715e1589a5.png" style="max-width: 100.0%;max-height: 100.0%;">   <span class="tex-font-size-small">Example pedestal of $$$n=11$$$ blocks: second place height equals $$$4$$$ blocks, first place height equals $$$5$$$ blocks, third place height equals $$$2$$$ blocks.</span></center><p>Among all possible pedestals of $$$n$$$ blocks, deduce one such that the platform height for the $$$1$$$-st place <span class="tex-font-style-bf">minimum</span> as possible. If there are several of them, output any of them.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input data contains an integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases.</p><p>Each test case contains a single integer $$$n$$$ ($$$6 \le n \le 10^5$$$) — the total number of blocks for the pedestal. All $$$n$$$ blocks must be used.</p><p>It is guaranteed that the sum of $$$n$$$ values over all test cases does not exceed $$$10^6$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output $$$3$$$ numbers $$$h_2, h_1, h_3$$$ — the platform heights for $$$2$$$-nd, $$$1$$$-st and $$$3$$$-rd places on a pedestal consisting of $$$n$$$ blocks ($$$h_1+h_2+h_3=n$$$, $$$0  \lt  h_3  \lt  h_2  \lt  h_1$$$). </p><p>Among all possible pedestals, output the one for which the value of $$$h_1$$$ <span class="tex-font-style-bf">minimal</span>. If there are several of them, output any of them.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009543642355888472" id="id0008493633655905797" class="input-output-copier">Copy</div></div><pre id="id009543642355888472"><div class="test-example-line test-example-line-even test-example-line-0">6</div><div class="test-example-line test-example-line-odd test-example-line-1">11</div><div class="test-example-line test-example-line-even test-example-line-2">6</div><div class="test-example-line test-example-line-odd test-example-line-3">10</div><div class="test-example-line test-example-line-even test-example-line-4">100000</div><div class="test-example-line test-example-line-odd test-example-line-5">7</div><div class="test-example-line test-example-line-even test-example-line-6">8</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00840801958963888" id="id0016838494238051716" class="input-output-copier">Copy</div></div><pre id="id00840801958963888">4 5 2
-2 3 1
-4 5 1
-33334 33335 33331
-2 4 1
-3 4 1
-</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case we can not get the height of the platform for the first place less than $$$5$$$, because if the height of the platform for the first place is not more than $$$4$$$, then we can use at most $$$4 + 3 + 2 = 9$$$ blocks. And we should use $$$11 = 4 + 5 + 2$$$ blocks. Therefore, the answer <span class="tex-font-style-tt">4 5 2</span> fits. </p><p>In the second set, the only suitable answer is: <span class="tex-font-style-tt">2 3 1</span>.</p></div>
+#include <algorithm>
+#include <array>
+#include <bitset>
+#include <cassert>
+#include <chrono>
+#include <climits>
+#include <cmath>
+#include <complex>
+#include <string>
+#include <cstring>
+#include <functional>
+#include <iomanip>
+#include <iostream>
+#include <map>
+#include <numeric>
+#include <queue>
+#include <random>
+#include <set>
+#include <vector>
+ 
+ 
+ 
+using namespace std;
+using ll = long long;
+using ld = long double;  // or double, if TL is tight
+using str = string;      
+ 
+// pairs
+using pi = pair<int, int>;
+using pl = pair<ll, ll>;
+using pd = pair<ld, ld>;
+#define mp make_pair
+#define fi first
+#define se second
+ 
+#define tcT template <class T
+#define tcTU tcT, class U
+// ^ lol this makes everything look weird but I'll try it
+tcT > using V = vector<T>;
+tcT, size_t SZ > using AR = array<T, SZ>;
+using vi = V<int>;
+using vb = V<bool>;
+using vl = V<ll>;
+using vd = V<ld>;
+using vs = V<str>;
+using vpi = V<pi>;
+using vpl = V<pl>;
+using vpd = V<pd>;
+ 
+// vectors
+#define sz(x) int(size(x))
+#define bg(x) begin(x)
+#define all(x) bg(x), end(x)
+#define rall(x) rbegin(x), rend(x)
+#define sor(x) sort(all(x))
+#define rev(x) reverse(all(x))
+#define rsz resize
+#define ins insert
+#define pb push_back
+#define eb emplace_back
+#define ft front()
+#define bk back()
+ 
+#define lb(x,a) lower_bound(all(x),a)
+#define ub(x,a) upper_bound(all(x),a)
+tcT > int lwb(const V<T> &a, const T &b) { return int(lb(a, b) - bg(a)); }
+tcT > int upb(const V<T> &a, const T &b) { return int(ub(a, b) - bg(a)); }
+ 
+// sets
+#define ml map <ll,ll>
+#define mi map<int,int>
+#define si set<int>
+#define sl set <ll>
+#define sll set <pll>
+ 
+// loops
+#define fp(i,j,k,l) for(ll i=j;i<k;i+=l)
+#define fr(i, a, b) for (int i = (a); i < (b); ++i)
+#define frz(i, a) fr(i, 0, a)
+#define frd(i, a, b) for (int i = (b) - 1; i >= (a); --i)
+#define frdz(i, a) frd(i, 0, a)
+#define rep(a) fr(_, a)
+#define each(a, x) for (auto &a : x)
+ 
+const int MOD = 998244353;  // 1e9+7;
+const int MX = (int)2e5 + 5;
+const ll BIG = 1e18;  // not too close to LLONG_MAX
+const ld PI = acos((ld)-1);
+#define ln(x) log(x) // natural log of x
+#define log(n,x) (ln(x)/ln(n))
+const int dx[4]{1, 0, -1, 0}, dy[4]{0, 1, 0, -1};  // for every grid problem!!
+mt19937 rng((uint32_t)chrono::steady_clock::now().time_since_epoch().count());
+template <class T> using pqg = priority_queue<T, vector<T>, greater<T>>;
+ 
+// bitwise ops
+ 
+constexpr int pct(int x) { return __builtin_popcount(x); }  // # of bits set
+constexpr int bits(int x) {  // assert(x >= 0); // make C++11 compatible until
+                            // USACO updates ...
+   return x == 0 ? 0 : 31 - __builtin_clz(x);
+}  // floor(log2(x))
+constexpr int p2(int x) { return 1 << x; }
+constexpr int msk2(int x) { return p2(x) - 1; }
+bool prime(ll a){if (a<2) return 0; for (int i=2;i*i<=a;i++) if (a%i==0) return 0; return 1;}
+ll cdiv(ll a, ll b) {
+   return a / b + ((a ^ b) > 0 && a % b);
+}  // divide a by b rounded up
+ll fdiv(ll a, ll b) {
+   return a / b - ((a ^ b) < 0 && a % b);
+}  // divide a by b rounded down
+ ll rmod(ll a, ll b) { return (a % b + b) % b; }
+ // rmod: true modulo for negative values, always returns a result in [0, b) when b > 0 since in c++  %  is just the remainder operator
+tcT > bool ckmin(T &a, const T &b) {
+   return b < a ? a = b, 1 : 0;
+}  // set a = min(a,b)
+tcT > bool ckmax(T &a, const T &b) {
+   return a < b ? a = b, 1 : 0;
+}  // set a = max(a,b)
+ 
+tcTU > T fstTrue(T lo, T hi, U f) {
+   ++hi;
+   assert(lo <= hi);  // assuming f is increasing
+   while (lo < hi) {  // find first index such that f is true
+      T mid = lo + (hi - lo) / 2;
+      f(mid) ? hi = mid : lo = mid + 1;
+   }
+   return lo;
+}
+tcTU > T lstTrue(T lo, T hi, U f) {
+   --lo;
+   assert(lo <= hi);  // assuming f is decreasing
+   while (lo < hi) {  // find first index such that f is true
+      T mid = lo + (hi - lo + 1) / 2;
+      f(mid) ? lo = mid : hi = mid - 1;
+   }
+   return lo;
+}
+tcT > void remDup(vector<T> &v) {  // sort and remove duplicates
+   sort(all(v));
+   v.erase(unique(all(v)), end(v));
+}
+tcTU > void safeErase(T &t, const U &u) {
+   auto it = t.find(u);
+   assert(it != end(t));
+   t.erase(it);
+}
+#define yes cout<<"YES"<<endl;
+#define no cout<<"NO"<<endl;
+bool check(int k,int n, const vl& a, const vl& b) {
+    int e2=0,e0=0;
+    int l=-1; 
+    frz(i,n) {
+        int c=(a[i]>=k)+(b[i]>=k);
+        if (c==2) {
+            e2++;
+            l=2;
+        } else if (c==0) {
+            if (l!=0) {
+                e0++;
+                l=0;
+            }
+        }
+    }
+    
+    return (e2-e0>=1);
+ 
+}
+ 
+void solve(){
+  ll a;
+  cin >>a;
+  if(a%3==0){
+   cout <<a/3<<" "<<(a/3)+1<<" "<<(a/3)-1<<endl;
+  }
+  else if (a%3==1){
+   cout << (a/3)<<" "<<(a/3)+2<<" "<<(a/3)-1<<endl;
+  }
+  else{
+  cout << (a/3)+1<<" "<<(a/3)+2<<" "<<(a/3)-1<<endl;
+ 
+}}
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    ll t;
+    cin >>t;
+    //t=1;
+    while(t--){
+      solve();
+    }
+    return 0 ;}
