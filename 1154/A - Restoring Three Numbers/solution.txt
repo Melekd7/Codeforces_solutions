@@ -1,0 +1,7 @@
+a=list(map(int,input().split()))
+a.sort()
+x=a[3]-a[0]
+y=a[3]-a[1]
+z=a[3]-a[2]
+print(x," ",y," ",z)
+ 
