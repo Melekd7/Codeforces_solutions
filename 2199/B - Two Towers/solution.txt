@@ -1,0 +1,14 @@
+fun main() {
+    val t = readLine()!!.toInt()
+    repeat(t) {
+        val (a, b, c, d) = readLine()!!.split(" ").map { it.toInt() }
+        
+        if (a == c && b == d) {
+            println(0)
+        } else {
+            val total = (c - a) + (d - b)
+            val savings = maxOf(0, minOf(c, d) - maxOf(a, b))
+            println(total - savings)
+        }
+    }
+}
