@@ -1,0 +1,30 @@
+import sys,math
+t=int(input())
+for _ in range(t):
+    n,k=map(int,input().split())
+    a=list(map(int,input().split()))
+    f=int(input())
+    x=a[f-1]
+    c=x
+    L=0
+    for i in range(f-2,-1,-1):
+        if a[i]!=c:
+            L+=1
+            c^=1
+    c=x
+    R=0
+    for i in range(f,n):
+        if a[i]!=c:
+            R+=1
+            c^=1
+    out=10**18
+    for u in (L,L+2):
+        for v in (R,R+2):
+            lo=max(u,v)
+            hi=u+v
+            if lo%2==0:
+                out=min(out,lo)
+            else:
+                if lo+1<=hi:
+                    out=min(out,lo+1)
+    print(out)
