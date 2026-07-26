@@ -1,0 +1,18 @@
+t=int(input())
+for i in range(t):
+    n=int(input())
+    a=list(map(int,input().split()))
+    f=[]
+    g=[]
+    h=[]
+    x=[]
+    for i in range(n):
+        if a[i]%6==0:
+            f.append(a[i])
+        elif a[i]%2==0:
+            g.append(a[i])
+        elif a[i]%3==0:
+            h.append(a[i])
+        else:
+            x.append(a[i])
+    print(*f,*g,*x,*h)
