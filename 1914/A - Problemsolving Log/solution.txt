@@ -1,0 +1,28 @@
+t=int(input())
+for j in range(t):
+    n=int(input())
+    s=input()
+    k=0
+    l=ord("A")
+    a=[]
+    for f in range(len(s)):
+        a.append(s[f])
+    a=sorted(a)
+    
+    a.append(" ")
+    #print(a)
+    g=[]
+    c=1
+    for i in range(n):
+        if a[i]==a[i+1]:
+            c+=1
+        else:
+            #print(a[i])
+            #print(i)
+            #print(ord(a[i])-l+1,c)
+            if ord(a[i])+1-l<=c:
+                g.append(1)
+            c=1
+    print(len(g))
+    
+    
