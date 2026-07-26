@@ -1,0 +1,11 @@
+s=input()
+a=[]
+f=""
+for i in range(len(s)):
+    if s[i]!="+":
+        a.append(s[i])
+a.sort()
+for i in range(len(a)):
+    f+=a[i]+"+"
+print(f[:len(f)-1])
+    
