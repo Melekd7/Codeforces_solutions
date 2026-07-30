@@ -1,28 +1,8 @@
-#include <algorithm>
-#include <array>
-#include <bitset>
-#include <cassert>
-#include <chrono>
-#include <climits>
-#include <cmath>
-#include <complex>
-#include <string>
-#include <cstring>
-#include <functional>
-#include <iomanip>
-#include <iostream>
-#include <map>
-#include <numeric>
-#include <queue>
-#include <random>
-#include <set>
-#include <vector>
- 
- 
+#include <bits/stdc++.h>
  
 using namespace std;
 using ll = long long;
-using ld = long double;  // or double, if TL is tight
+using ld = long double; 
 using str = string;      
  
 // pairs
@@ -35,7 +15,7 @@ using pd = pair<ld, ld>;
  
 #define tcT template <class T
 #define tcTU tcT, class U
-// ^ lol this makes everything look weird but I'll try it
+
 tcT > using V = vector<T>;
 tcT, size_t SZ > using AR = array<T, SZ>;
 using vi = V<int>;
