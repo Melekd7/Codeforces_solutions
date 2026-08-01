@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 251 | 27 |
+| 252 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (6)
-- [Uncategorized](#uncategorized) (10)
+- [Uncategorized](#uncategorized) (11)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (42)
@@ -58,6 +58,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 102267C | [Matryoshka Dolls](https://codeforces.com/contest/102267/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/102267/C%20-%20Matryoshka%20Dolls/solution.cpp) |
 | 105020A | [Mood](https://codeforces.com/contest/105020/problem/A) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/A%20-%20Mood/solution.py) |
 | 105020B | [Hungry](https://codeforces.com/contest/105020/problem/B) | Unrated | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/B%20-%20Hungry/solution.txt) |
