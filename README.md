@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 258 | 27 |
+| 259 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (6)
-- [Uncategorized](#uncategorized) (14)
+- [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (43)
@@ -62,6 +62,7 @@
 | 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 | 102267C | [Matryoshka Dolls](https://codeforces.com/contest/102267/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/102267/C%20-%20Matryoshka%20Dolls/solution.cpp) |
 | 105020A | [Mood](https://codeforces.com/contest/105020/problem/A) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/A%20-%20Mood/solution.py) |
 | 105020B | [Hungry](https://codeforces.com/contest/105020/problem/B) | Unrated | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/B%20-%20Hungry/solution.txt) |
