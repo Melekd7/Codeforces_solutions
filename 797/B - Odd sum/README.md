@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/797/problem/B" target="_blank" rel="noopener noreferrer">797B — Odd sum</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 797B](https://codeforces.com/contest/797/problem/B) |
+
+## Topics
+`dp` `greedy` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Odd sum</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given sequence <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> of integer numbers of length <span class="tex-span"><i>n</i></span>. Your task is to find such subsequence that its sum is odd and maximum among all such subsequences. It's guaranteed that given sequence contains subsequence with odd sum.</p><p>Subsequence is a sequence that can be derived from another sequence by deleting some elements without changing the order of the remaining elements.</p><p>You should write a program which finds sum of the best subsequence.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains integer number <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>).</p><p>The second line contains <span class="tex-span"><i>n</i></span> integer numbers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span"> - 10<sup class="upper-index">4</sup> ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">4</sup></span>). The sequence contains at least one subsequence with odd sum.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print sum of resulting subseqeuence.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004900905173903565" id="id005330956278377429" class="input-output-copier">Copy</div></div><pre id="id004900905173903565">4<br>-2 2 -3 1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008393758102654119" id="id005510012646090554" class="input-output-copier">Copy</div></div><pre id="id008393758102654119">3<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0009764180217517349" id="id0019598519190434094" class="input-output-copier">Copy</div></div><pre id="id0009764180217517349">3<br>2 -5 -3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006707224063094315" id="id004381426644728208" class="input-output-copier">Copy</div></div><pre id="id006707224063094315">-1<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example sum of the second and the fourth elements is <span class="tex-span">3</span>.</p></div>
