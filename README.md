@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 275 | 27 |
+| 276 | 27 |
 
 ---
 
@@ -14,25 +14,25 @@
 
 - [*special](#special) (6)
 - [Uncategorized](#uncategorized) (19)
-- [binary search](#binary-search) (12)
+- [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (45)
+- [brute force](#brute-force) (46)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (35)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (12)
 - [expression parsing](#expression-parsing) (2)
 - [fft](#fft) (1)
 - [games](#games) (3)
-- [geometry](#geometry) (10)
+- [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (79)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (107)
+- [implementation](#implementation) (108)
 - [interactive](#interactive) (1)
-- [math](#math) (119)
+- [math](#math) (120)
 - [number theory](#number-theory) (30)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -89,6 +89,7 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
+| 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.py) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.txt) |
 | 2199E | [Supersequence](https://codeforces.com/contest/2199/problem/E) | 2100 | [Kotlin 1.7](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2199/E%20-%20Supersequence/solution.txt) |
@@ -139,6 +140,7 @@
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 | 1979A | [Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1979/A%20-%20Guess%20the%20Maximum/solution.txt) |
 | 1999B | [Card Game](https://codeforces.com/contest/1999/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1999/B%20-%20Card%20Game/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
@@ -222,6 +224,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
 ### dp
@@ -276,6 +279,7 @@
 | 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1928A | [Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1928/A%20-%20Rectangle%20Cutting/solution.cpp) |
+| 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 
 ### graph matchings
 
@@ -475,6 +479,7 @@
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
+| 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 | 1979A | [Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1979/A%20-%20Guess%20the%20Maximum/solution.txt) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 1999B | [Card Game](https://codeforces.com/contest/1999/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1999/B%20-%20Card%20Game/solution.cpp) |
@@ -580,6 +585,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1921/A%20-%20Square/solution.cpp) |
 | 1928A | [Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1928/A%20-%20Rectangle%20Cutting/solution.cpp) |
+| 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
