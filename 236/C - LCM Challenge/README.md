@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/236/problem/C" target="_blank" rel="noopener noreferrer">236C — LCM Challenge</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | Unrated |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 236C](https://codeforces.com/contest/236/problem/C) |
+
+## Topics
+_No tags available_
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. LCM Challenge</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Some days ago, I learned the concept of LCM (least common multiple). I've played with it for several times and I want to make a big number with it.</p><p>But I also don't want to use many numbers, so I'll choose three positive integers (they don't have to be distinct) which are not greater than <span class="tex-span"><i>n</i></span>. Can you help me to find the maximum possible least common multiple of these three integers?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains an integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">6</sup></span>) — the <span class="tex-span"><i>n</i></span> mentioned in the statement.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single integer — the maximum possible LCM of three not necessarily distinct positive integers that are not greater than <span class="tex-span"><i>n</i></span>.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008512854707443933" id="id005289177080119329" class="input-output-copier">Copy</div></div><pre id="id008512854707443933">9<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005410994456020571" id="id005862771247266342" class="input-output-copier">Copy</div></div><pre id="id005410994456020571">504<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0019118085294712894" id="id0024290467298230145" class="input-output-copier">Copy</div></div><pre id="id0019118085294712894">7<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008192537032304248" id="id005343939048650013" class="input-output-copier">Copy</div></div><pre id="id008192537032304248">210<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>The least common multiple of some positive integers is the least positive integer which is multiple for each of them.</p><p>The result may become very large, 32-bit integer won't be enough. So using 64-bit integers is recommended.</p><p>For the last example, we can chose numbers <span class="tex-span">7</span>, <span class="tex-span">6</span>, <span class="tex-span">5</span> and the LCM of them is <span class="tex-span">7·6·5 = 210</span>. It is the maximum value we can get.</p></div>
