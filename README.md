@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 278 | 27 |
+| 279 | 27 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [games](#games) (3)
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (80)
+- [greedy](#greedy) (81)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (110)
 - [interactive](#interactive) (1)
@@ -313,6 +313,7 @@
 | 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.txt) |
 | 797B | [Odd sum](https://codeforces.com/contest/797/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/797/B%20-%20Odd%20sum/solution.cpp) |
 | 805A | [Fake NP](https://codeforces.com/contest/805/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/805/A%20-%20Fake%20NP/solution.cpp) |
+| 903C | [Boxes Packing](https://codeforces.com/contest/903/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/903/C%20-%20Boxes%20Packing/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1106C | [Lunar New Year and Number Division](https://codeforces.com/contest/1106/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1106/C%20-%20Lunar%20New%20Year%20and%20Number%20Division/solution.cpp) |
 | 1230B | [Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1230/B%20-%20Ania%20and%20Minimizing/solution.cpp) |
