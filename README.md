@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 279 | 27 |
+| 280 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (6)
-- [Uncategorized](#uncategorized) (19)
+- [Uncategorized](#uncategorized) (20)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (47)
@@ -57,6 +57,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 236C | [LCM Challenge](https://codeforces.com/contest/236/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/236/C%20-%20LCM%20Challenge/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.cpp) |
