@@ -231,18 +231,27 @@ void solve()
      cin >> b;
      sor(a);
      sor(b);
-     ll i = 0, j = 0, s = 0;
-    while (i < n && j < m) {
-        if (abs(a[i] - b[j]) <= 1) {
+     ll l = m-1;
+     ll s = 0;
+     frdz(i,n){
+         while (abs(a[i] - b[l]) > 1)
+         {
+            if(a[i]-1>b[l]){
+                break;
+            }
+            if(l>0){
+             l--;}
+             else{
+                 break;
+             }
+         }
+        if(abs(a[i] - b[l]) <= 1){
             s++;
-            i++;
-            j++;
-        } else if (a[i] < b[j]) {
-            i++;
-        } else {
-            j++;
+            b[l] = 102;
+            
         }
-    }
+ 
+     }
      cout << s << endl;
 }
  
