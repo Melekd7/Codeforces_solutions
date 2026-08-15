@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 297 | 27 |
+| 298 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (20)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (49)
+- [brute force](#brute-force) (50)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (36)
@@ -32,8 +32,8 @@
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (116)
 - [interactive](#interactive) (1)
-- [math](#math) (125)
-- [number theory](#number-theory) (31)
+- [math](#math) (126)
+- [number theory](#number-theory) (32)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
@@ -148,6 +148,7 @@
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 | 1979A | [Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1979/A%20-%20Guess%20the%20Maximum/solution.txt) |
+| 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 1999B | [Card Game](https://codeforces.com/contest/1999/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1999/B%20-%20Card%20Game/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.py) |
@@ -627,6 +628,7 @@
 | 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1921/A%20-%20Square/solution.cpp) |
 | 1928A | [Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1928/A%20-%20Rectangle%20Cutting/solution.cpp) |
 | 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
+| 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
@@ -690,6 +692,7 @@
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.txt) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.py) |
 | 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
