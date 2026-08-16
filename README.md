@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 302 | 28 |
+| 303 | 28 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (36)
-- [data structures](#data-structures) (7)
+- [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (15)
 - [expression parsing](#expression-parsing) (2)
@@ -29,10 +29,10 @@
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (91)
-- [hashing](#hashing) (2)
+- [hashing](#hashing) (3)
 - [implementation](#implementation) (118)
 - [interactive](#interactive) (1)
-- [math](#math) (128)
+- [math](#math) (129)
 - [number theory](#number-theory) (32)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -227,6 +227,7 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
+| 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.txt) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
@@ -408,6 +409,7 @@
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.cpp) |
+| 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 
 ### implementation
 
@@ -596,6 +598,7 @@
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1519B | [The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1519/B%20-%20The%20Cake%20Is%20a%20Lie/solution.cpp) |
+| 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1537A | [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1537/A%20-%20Arithmetic%20Array/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
