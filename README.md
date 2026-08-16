@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 304 | 28 |
+| 305 | 28 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (20)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (51)
+- [brute force](#brute-force) (52)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (36)
@@ -30,7 +30,7 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (92)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (119)
+- [implementation](#implementation) (120)
 - [interactive](#interactive) (1)
 - [math](#math) (129)
 - [number theory](#number-theory) (32)
@@ -145,6 +145,7 @@
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
@@ -518,6 +519,7 @@
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1829C | [Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1829/C%20-%20Mr.%20Perfectly%20Fine/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
