@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 317 | 28 |
+| 318 | 28 |
 
 ---
 
@@ -37,8 +37,8 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (34)
-- [strings](#strings) (32)
+- [sortings](#sortings) (35)
+- [strings](#strings) (33)
 - [two pointers](#two-pointers) (9)
 
 ---
@@ -778,6 +778,7 @@
 | 507A | [Amr and Music](https://codeforces.com/contest/507/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/507/A%20-%20Amr%20and%20Music/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
+| 632C | [The Smallest String Concatenation](https://codeforces.com/contest/632/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/632/C%20-%20The%20Smallest%20String%20Concatenation/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 766B | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | 1000 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/766/B%20-%20Mahmoud%20and%20a%20Triangle/solution.txt) |
 | 785B | [Anton and Classes](https://codeforces.com/contest/785/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/785/B%20-%20Anton%20and%20Classes/solution.cpp) |
@@ -818,6 +819,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
+| 632C | [The Smallest String Concatenation](https://codeforces.com/contest/632/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/632/C%20-%20The%20Smallest%20String%20Concatenation/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
