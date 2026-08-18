@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 319 | 28 |
+| 320 | 29 |
 
 ---
 
@@ -21,16 +21,17 @@
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (37)
 - [data structures](#data-structures) (8)
-- [dfs and similar](#dfs-and-similar) (4)
+- [dfs and similar](#dfs-and-similar) (5)
 - [dp](#dp) (16)
 - [expression parsing](#expression-parsing) (2)
 - [fft](#fft) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (11)
 - [graph matchings](#graph-matchings) (2)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (99)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (124)
+- [implementation](#implementation) (125)
 - [interactive](#interactive) (1)
 - [math](#math) (135)
 - [number theory](#number-theory) (34)
@@ -247,6 +248,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
@@ -316,6 +318,12 @@
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 
 ### greedy
 
@@ -482,6 +490,7 @@
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 | 507A | [Amr and Music](https://codeforces.com/contest/507/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/507/A%20-%20Amr%20and%20Music/solution.cpp) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
