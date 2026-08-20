@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 328 | 29 |
+| 329 | 29 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (102)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (127)
+- [implementation](#implementation) (128)
 - [interactive](#interactive) (1)
 - [math](#math) (137)
 - [number theory](#number-theory) (35)
@@ -496,6 +496,7 @@
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
