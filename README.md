@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 331 | 29 |
+| 332 | 29 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (102)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (129)
+- [implementation](#implementation) (130)
 - [interactive](#interactive) (1)
 - [math](#math) (137)
 - [number theory](#number-theory) (35)
@@ -535,6 +535,7 @@
 | 1230B | [Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1230/B%20-%20Ania%20and%20Minimizing/solution.cpp) |
 | 1237A | [Balanced Rating Changes](https://codeforces.com/contest/1237/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1237/A%20-%20Balanced%20Rating%20Changes/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1505A | [Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1505/A%20-%20Is%20it%20rated%20-%202/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.cpp) |
