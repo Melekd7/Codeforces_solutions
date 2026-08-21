@@ -1,0 +1,21 @@
+<h2><a href="https://codeforces.com/contest/1725/problem/A" target="_blank" rel="noopener noreferrer">1725A — Accumulation of Dominoes</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1725A](https://codeforces.com/contest/1725/problem/A) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Accumulation of Dominoes</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Pak Chanek has a grid that has $$$N$$$ rows and $$$M$$$ columns. Each row is numbered from $$$1$$$ to $$$N$$$ from top to bottom. Each column is numbered from $$$1$$$ to $$$M$$$ from left to right.</p><p>Each tile in the grid contains a number. The numbers are arranged as follows: </p><ul> <li> Row $$$1$$$ contains integers from $$$1$$$ to $$$M$$$ from left to right. </li><li> Row $$$2$$$ contains integers from $$$M+1$$$ to $$$2 \times M$$$ from left to right. </li><li> Row $$$3$$$ contains integers from $$$2 \times M+1$$$ to $$$3 \times M$$$ from left to right. </li><li> And so on until row $$$N$$$. </li></ul><p>A domino is defined as two different tiles in the grid that touch <span class="tex-font-style-bf">by their sides</span>. A domino is said to be <span class="tex-font-style-bf">tight</span> if and only if the two numbers in the domino have a difference of exactly $$$1$$$. Count the number of distinct <span class="tex-font-style-bf">tight</span> dominoes in the grid.</p><p>Two dominoes are said to be distinct if and only if there exists at least one tile that is in one domino, but not in the other.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line contains two integers $$$N$$$ and $$$M$$$ ($$$1 \leq N, M \leq 10^9$$$) — the number of rows and columns in the grid.</p></div><div class="output-specification"><div class="section-title">Output</div><p>An integer representing the number of distinct <span class="tex-font-style-bf">tight</span> dominoes in the grid.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0017321186571661817" id="id009646277223746312" class="input-output-copier">Copy</div></div><pre id="id0017321186571661817">3 4
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id002337351753100091" id="id003485664361166394" class="input-output-copier">Copy</div></div><pre id="id002337351753100091">9
+</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009079064770944112" id="id0067776665692327" class="input-output-copier">Copy</div></div><pre id="id009079064770944112">2 1
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00307109933535594" id="id0042192584964232294" class="input-output-copier">Copy</div></div><pre id="id00307109933535594">1
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>The picture below is the grid that Pak Chanek has in the first example.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/7c6d63dc0d897b4f8b1871a4fcc63b3cdb5d805f.png" style="max-width: 100.0%;max-height: 100.0%;" width="378px"> </center><p>The picture below is an example of a <span class="tex-font-style-bf">tight</span> domino in the grid.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/1411de967b2a5ec85a0409d8c81379f29abae675.png" style="max-width: 100.0%;max-height: 100.0%;" width="378px"> </center></div>
