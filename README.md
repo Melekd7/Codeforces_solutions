@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 337 | 29 |
+| 338 | 29 |
 
 ---
 
@@ -31,9 +31,9 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (105)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (132)
+- [implementation](#implementation) (133)
 - [interactive](#interactive) (1)
-- [math](#math) (138)
+- [math](#math) (139)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -555,6 +555,7 @@
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
 | 1744A | [Number Replacement](https://codeforces.com/contest/1744/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1744/A%20-%20Number%20Replacement/solution.cpp) |
+| 1744B | [Even-Odd Increments ](https://codeforces.com/contest/1744/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1744/B%20-%20Even-Odd%20Increments%20/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
@@ -673,6 +674,7 @@
 | 1725A | [Accumulation of Dominoes](https://codeforces.com/contest/1725/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1725/A%20-%20Accumulation%20of%20Dominoes/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.cpp) |
+| 1744B | [Even-Odd Increments ](https://codeforces.com/contest/1744/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1744/B%20-%20Even-Odd%20Increments%20/solution.cpp) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
