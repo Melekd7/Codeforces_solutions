@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 341 | 29 |
+| 342 | 29 |
 
 ---
 
@@ -31,10 +31,10 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (107)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (134)
+- [implementation](#implementation) (135)
 - [interactive](#interactive) (1)
 - [math](#math) (140)
-- [number theory](#number-theory) (35)
+- [number theory](#number-theory) (36)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -492,6 +492,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
@@ -753,6 +754,7 @@
 | 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
