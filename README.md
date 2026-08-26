@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 348 | 29 |
+| 349 | 29 |
 
 ---
 
@@ -16,13 +16,13 @@
 - [Uncategorized](#uncategorized) (21)
 - [binary search](#binary-search) (19)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (60)
+- [brute force](#brute-force) (61)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (43)
 - [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (5)
-- [dp](#dp) (17)
+- [dp](#dp) (18)
 - [expression parsing](#expression-parsing) (2)
 - [fft](#fft) (1)
 - [games](#games) (4)
@@ -33,7 +33,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (137)
 - [interactive](#interactive) (1)
-- [math](#math) (143)
+- [math](#math) (144)
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -141,6 +141,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
@@ -282,6 +283,7 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 797B | [Odd sum](https://codeforces.com/contest/797/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/797/B%20-%20Odd%20sum/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1519B | [The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1519/B%20-%20The%20Cake%20Is%20a%20Lie/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
@@ -672,6 +674,7 @@
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1487D | [Pythagorean Triples](https://codeforces.com/contest/1487/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1487/D%20-%20Pythagorean%20Triples/solution.cpp) |
