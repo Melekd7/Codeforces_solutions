@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 359 | 29 |
+| 360 | 29 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (65)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (45)
+- [constructive algorithms](#constructive-algorithms) (46)
 - [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (5)
 - [dp](#dp) (19)
@@ -29,11 +29,11 @@
 - [geometry](#geometry) (12)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (116)
+- [greedy](#greedy) (117)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (140)
 - [interactive](#interactive) (1)
-- [math](#math) (145)
+- [math](#math) (146)
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -225,6 +225,7 @@
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1690A | [Print a Pedestal (Codeforces logo?)](https://codeforces.com/contest/1690/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1690/A%20-%20Print%20a%20Pedestal%20(Codeforces%20logo%3F)/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
@@ -416,6 +417,7 @@
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
@@ -711,6 +713,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1725A | [Accumulation of Dominoes](https://codeforces.com/contest/1725/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1725/A%20-%20Accumulation%20of%20Dominoes/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.cpp) |
