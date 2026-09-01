@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 375 | 29 |
+| 376 | 29 |
 
 ---
 
@@ -31,14 +31,14 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (121)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (147)
+- [implementation](#implementation) (148)
 - [interactive](#interactive) (1)
 - [math](#math) (152)
 - [number theory](#number-theory) (40)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (46)
+- [sortings](#sortings) (47)
 - [strings](#strings) (39)
 - [two pointers](#two-pointers) (14)
 
@@ -604,6 +604,7 @@
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1676C | [Most Similar Words](https://codeforces.com/contest/1676/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1676/C%20-%20Most%20Similar%20Words/solution.cpp) |
 | 1690B | [Array Decrements](https://codeforces.com/contest/1690/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1690/B%20-%20Array%20Decrements/solution.cpp) |
@@ -913,6 +914,7 @@
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
 | 1676E | [Eating Queries](https://codeforces.com/contest/1676/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1676/E%20-%20Eating%20Queries/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
