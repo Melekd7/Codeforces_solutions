@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 380 | 29 |
+| 381 | 29 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (150)
 - [interactive](#interactive) (1)
-- [math](#math) (154)
+- [math](#math) (155)
 - [number theory](#number-theory) (40)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -687,6 +687,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 327B | [Hungry Sequence](https://codeforces.com/contest/327/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/327/B%20-%20Hungry%20Sequence/solution.cpp) |
 | 456B | [Fedya and Maths](https://codeforces.com/contest/456/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/456/B%20-%20Fedya%20and%20Maths/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
