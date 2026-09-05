@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 388 | 29 |
+| 389 | 29 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (6)
-- [Uncategorized](#uncategorized) (23)
+- [Uncategorized](#uncategorized) (24)
 - [binary search](#binary-search) (22)
 - [bitmasks](#bitmasks) (7)
 - [brute force](#brute-force) (70)
@@ -73,6 +73,7 @@
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 102267C | [Matryoshka Dolls](https://codeforces.com/contest/102267/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/102267/C%20-%20Matryoshka%20Dolls/solution.cpp) |
 | 105020A | [Mood](https://codeforces.com/contest/105020/problem/A) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/A%20-%20Mood/solution.py) |
 | 105020B | [Hungry](https://codeforces.com/contest/105020/problem/B) | Unrated | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/B%20-%20Hungry/solution.txt) |
