@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 397 | 29 |
+| 398 | 29 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [geometry](#geometry) (13)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (126)
+- [greedy](#greedy) (127)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (154)
 - [interactive](#interactive) (1)
@@ -38,7 +38,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (49)
+- [sortings](#sortings) (50)
 - [strings](#strings) (40)
 - [two pointers](#two-pointers) (16)
 
@@ -474,6 +474,7 @@
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
@@ -962,6 +963,7 @@
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
+| 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
