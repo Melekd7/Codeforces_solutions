@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 413 | 30 |
+| 414 | 30 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (160)
 - [interactive](#interactive) (1)
-- [math](#math) (171)
+- [math](#math) (172)
 - [number theory](#number-theory) (42)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -761,6 +761,7 @@
 | 1106C | [Lunar New Year and Number Division](https://codeforces.com/contest/1106/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1106/C%20-%20Lunar%20New%20Year%20and%20Number%20Division/solution.cpp) |
 | 1133B | [Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1133/B%20-%20Preparation%20for%20International%20Women's%20Day/solution.cpp) |
 | 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.cpp) |
+| 1141C | [Polycarp Restores Permutation](https://codeforces.com/contest/1141/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1141/C%20-%20Polycarp%20Restores%20Permutation/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
 | 1213A | [Chips Moving](https://codeforces.com/contest/1213/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1213/A%20-%20Chips%20Moving/solution.cpp) |
 | 1237A | [Balanced Rating Changes](https://codeforces.com/contest/1237/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1237/A%20-%20Balanced%20Rating%20Changes/solution.cpp) |
