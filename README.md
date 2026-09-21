@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 422 | 30 |
+| 423 | 30 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (6)
-- [Uncategorized](#uncategorized) (27)
+- [Uncategorized](#uncategorized) (28)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (7)
 - [brute force](#brute-force) (75)
@@ -78,6 +78,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 | 102267C | [Matryoshka Dolls](https://codeforces.com/contest/102267/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/102267/C%20-%20Matryoshka%20Dolls/solution.cpp) |
 | 105020A | [Mood](https://codeforces.com/contest/105020/problem/A) | Unrated | [Python 3](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/A%20-%20Mood/solution.py) |
 | 105020B | [Hungry](https://codeforces.com/contest/105020/problem/B) | Unrated | [PyPy 3-64](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/105020/B%20-%20Hungry/solution.txt) |
