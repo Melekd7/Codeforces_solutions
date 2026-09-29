@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 432 | 30 |
+| 433 | 30 |
 
 ---
 
@@ -26,19 +26,19 @@
 - [expression parsing](#expression-parsing) (2)
 - [fft](#fft) (1)
 - [games](#games) (4)
-- [geometry](#geometry) (14)
+- [geometry](#geometry) (15)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (141)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (164)
 - [interactive](#interactive) (1)
-- [math](#math) (182)
+- [math](#math) (183)
 - [number theory](#number-theory) (48)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
-- [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (58)
+- [shortest paths](#shortest-paths) (3)
+- [sortings](#sortings) (59)
 - [strings](#strings) (42)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (19)
@@ -399,6 +399,7 @@
 | 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 | 1928A | [Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1928/A%20-%20Rectangle%20Cutting/solution.cpp) |
 | 1971F | [Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | 1600 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1971/F%20-%20Circle%20Perimeter/solution.cpp) |
 
@@ -880,6 +881,7 @@
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 | 1872D | [Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1872/D%20-%20Plus%20Minus%20Permutation/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
@@ -1005,6 +1007,7 @@
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 
 ### sortings
 
@@ -1057,6 +1060,7 @@
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
