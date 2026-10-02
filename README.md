@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 439 | 30 |
+| 440 | 30 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (6)
 - [Uncategorized](#uncategorized) (28)
 - [binary search](#binary-search) (25)
-- [bitmasks](#bitmasks) (8)
+- [bitmasks](#bitmasks) (9)
 - [brute force](#brute-force) (81)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (7)
@@ -29,7 +29,7 @@
 - [geometry](#geometry) (15)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (144)
+- [greedy](#greedy) (145)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (167)
 - [interactive](#interactive) (1)
@@ -125,6 +125,7 @@
 |---|---------|------------|----------|
 | 579A | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/579/A%20-%20Raising%20Bacteria/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
+| 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1829C | [Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1829/C%20-%20Mr.%20Perfectly%20Fine/solution.cpp) |
@@ -484,6 +485,7 @@
 | 1537A | [Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1537/A%20-%20Arithmetic%20Array/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
+| 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
