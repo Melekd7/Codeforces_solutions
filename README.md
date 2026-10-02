@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 440 | 30 |
+| 441 | 30 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (145)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (167)
+- [implementation](#implementation) (168)
 - [interactive](#interactive) (1)
 - [math](#math) (185)
 - [number theory](#number-theory) (50)
@@ -39,7 +39,7 @@
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (60)
-- [strings](#strings) (42)
+- [strings](#strings) (43)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (22)
 
@@ -669,6 +669,7 @@
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 742A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/742/A%20-%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat/solution.cpp) |
+| 748B | [Santa Claus and Keyboard Check](https://codeforces.com/contest/748/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/748/B%20-%20Santa%20Claus%20and%20Keyboard%20Check/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
@@ -1114,6 +1115,7 @@
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 632C | [The Smallest String Concatenation](https://codeforces.com/contest/632/problem/C) | 1700 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/632/C%20-%20The%20Smallest%20String%20Concatenation/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 748B | [Santa Claus and Keyboard Check](https://codeforces.com/contest/748/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/748/B%20-%20Santa%20Claus%20and%20Keyboard%20Check/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
