@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 446 | 30 |
+| 447 | 30 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (56)
 - [data structures](#data-structures) (20)
-- [dfs and similar](#dfs-and-similar) (6)
+- [dfs and similar](#dfs-and-similar) (7)
 - [dp](#dp) (30)
 - [expression parsing](#expression-parsing) (2)
 - [fft](#fft) (1)
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (146)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (170)
+- [implementation](#implementation) (171)
 - [interactive](#interactive) (1)
 - [math](#math) (188)
 - [number theory](#number-theory) (51)
@@ -328,6 +328,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 445A | [DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/445/A%20-%20DZY%20Loves%20Chessboard/solution.cpp) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
@@ -637,6 +638,7 @@
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 445A | [DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/445/A%20-%20DZY%20Loves%20Chessboard/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.cpp) |
 | 459A | [Pashmak and Garden](https://codeforces.com/contest/459/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/459/A%20-%20Pashmak%20and%20Garden/solution.cpp) |
