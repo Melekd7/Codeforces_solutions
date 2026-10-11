@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 7 |
+| 3 | 8 |
 
 ---
 
@@ -15,10 +15,11 @@
 - [bitmasks](#bitmasks) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -44,6 +45,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
 
@@ -64,6 +66,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2153C | [Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/2153/C%20-%20Symmetrical%20Polygons/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Melekd7/Codeforces_solutions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 
 ---
 
